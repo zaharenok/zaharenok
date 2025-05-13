@@ -38,6 +38,62 @@ Here are some ideas to get you started:
 <p align="center">
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                148 commits         █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+🌆 Daytime                288 commits         ██████████░░░░░░░░░░░░░░░   41.03 % 
+🌃 Evening                220 commits         ████████░░░░░░░░░░░░░░░░░   31.34 % 
+🌙 Night                  46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Tuesday                  168 commits         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+Wednesday                106 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Thursday                 70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Friday                   103 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Saturday                 103 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Sunday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Vienna
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   12 repos            █████████████████████░░░░   85.71 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/zaharenok/zaharenok/main/assets/bar_graph.png)
+
+
+ Last Updated on 13/05/2025 12:24:38 UTC
 <!--END_SECTION:waka-->
 
 </p>
