@@ -88,13 +88,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/zaharenok/zaharenok/main/assets/bar_graph.png)
-
-
  Last Updated on 13/05/2025 12:36:21 UTC
 <!--END_SECTION:waka-->
 
