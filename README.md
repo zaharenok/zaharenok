@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello there! 👋
+### Hello there! Welcome to my page 👋
 
 <div align="center">
     <h3 align="center">Technologies I use:</h3>
@@ -28,6 +28,8 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Make.com-0059D9?style=for-the-badge&logo=make&logoColor=white"/>
         <!-- Add or remove badges as you wish -->
     </div>
 </div>
