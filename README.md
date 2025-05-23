@@ -40,6 +40,23 @@ Here are some ideas to get you started:
 <p align="center">
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2042%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Vienna
+
+💬 Programming Languages: 
+Bash                     5 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  5 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      5 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -51,7 +68,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2025 01:01:47 UTC
+ Last Updated on 23/05/2025 01:01:36 UTC
 <!--END_SECTION:waka-->
 
 </p>
