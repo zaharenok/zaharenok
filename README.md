@@ -42,6 +42,23 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2013%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Vienna
+
+💬 Programming Languages: 
+JSON                     31 mins             █████████████░░░░░░░░░░░░   52.53 % 
+Markdown                 16 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+Python                   12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+
+🔥 Editors: 
+VS Code                  1 hr                █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      1 hr                █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -54,7 +71,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2025 00:09:14 UTC
+ Last Updated on 19/09/2025 00:10:12 UTC
 <!--END_SECTION:waka-->
 
 </p>
