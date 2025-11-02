@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 <p align="center">
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2035%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -73,7 +71,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2025 00:11:33 UTC
+ Last Updated on 02/11/2025 00:11:26 UTC
 <!--END_SECTION:waka-->
 
 </p>
