@@ -40,6 +40,23 @@ Here are some ideas to get you started:
 <p align="center">
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2035%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Vienna
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -53,7 +70,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2025 00:11:24 UTC
+ Last Updated on 17/11/2025 00:10:28 UTC
 <!--END_SECTION:waka-->
 
 </p>
