@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <p align="center">
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2021%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,13 +48,15 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     35 mins             ████████████████████░░░░░   78.77 % 
+Python                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              45 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,7 +72,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 00:12:30 UTC
+ Last Updated on 02/01/2026 00:11:08 UTC
 <!--END_SECTION:waka-->
 
 </p>
